@@ -1,0 +1,59 @@
+{
+    "status": "ok",
+    "totalResults": 6,
+    "articles": [
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Carla Mozée",
+            "title": "The first 'NFT restaurant' will run you as much as $14,000 for an exclusive VIP membership — but you'll have to bring your wallet to pay the tab",
+            "description": "The seafood-inspired restaurant will open in New York City in 2023 and will feature a 14-seat Japanese \"omakase\" room.",
+            "url": "https://markets.businessinsider.com/news/currencies/nft-restaurant-first-flyfish-club-costs-vip-membership-cryptocurrency-ether-2022-1",
+            "urlToImage": "https://images2.markets.businessinsider.com/61e1b97b7c6a200018422000?format=jpeg",
+            "publishedAt": "2022-01-15T14:30:42Z",
+            "content": "Fish on display on Flyfish Club's website.Flyfish Club\r\nThe upcoming Flyfish Club restaurant is being billed as the first to sell memberships through non-fungible tokens, offering high-end private di… [+2052 chars]"
+        },
+
+        {
+            "source": {
+                "id": "politico",
+                "name": "Politico"
+            },
+            "author": "Associated Press",
+            "title": "U.S. consumer prices soared 7 percent in past year, most since 1982",
+            "description": "The jump is the latest evidence that rising costs for food, rent and other necessities are heightening the financial pressures on America’s households.",
+            "url": "https://www.politico.com/news/2022/01/12/consumer-prices-526964",
+            "urlToImage": "https://static.politico.com/9e/fd/ca280b634172be140f6e2569ff4c/ap22012124175897.jpg",
+            "publishedAt": "2022-01-12T14:25:04+00:00",
+            "content": "On Tuesday, Chair Jerome Powell told Congress that the Federal Reserve was prepared to accelerate the interest rate hikes it plans to begin this year if it deems it necessary to curb high inflation. … [+2585 chars]"
+        },
+        {
+            "source": {
+                "id": "new-scientist",
+                "name": "New Scientist"
+            },
+            "author": null,
+            "title": "How bacteria-killing viruses are being used to keep food safe",
+            "description": "Bacteria-killing viruses known as phages are increasingly being sprayed on food to keep them free of pathogens, and they could soon be put to work in healthcare",
+            "url": "https://www.newscientist.com/article/mg25333694-200-how-bacteria-killing-viruses-are-being-used-to-keep-food-safe/",
+            "urlToImage": "https://images.newscientist.com/wp-content/uploads/2022/01/12145140/how-bacteria-killing-viruses.jpg",
+            "publishedAt": "2022-01-12T00:00:00Z",
+            "content": "By Michael Le Page\r\nUniversal Images Group via Getty\r\nLISTERIOSIS kills hundreds of people every year in Europe alone. The bacterium that causes it, Listeria monocytogenes, can contaminate all kinds … [+485 chars]"
+        },
+        {
+            "source": {
+                "id": "the-times-of-india",
+                "name": "The Times of India"
+            },
+            "author": "Dipak K Dash",
+            "title": "Government to provide 5 kg free food grains to poor for May & June",
+            "description": "India News: The government on Friday announced to provide 5 kg free food grains to the poor for May and June 2021. This will cover nearly 80 crore beneficiaries u",
+            "url": "http://timesofindia.indiatimes.com/india/government-to-provide-5-kg-free-food-grains-to-poor-for-may-june/articleshow/82213582.cms",
+            "urlToImage": "https://static.toiimg.com/thumb/msid-82213583,width-1070,height-580,imgsize-1921513,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+            "publishedAt": "2021-04-23T04:23:00Z",
+            "content": null
+        }
+    ]
+}
